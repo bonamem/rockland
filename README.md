@@ -19,8 +19,8 @@ ID: Town
 num: district/precinct
 DS: Democratic party representative
 RS: Republican party representative
-x1, x2, x3: other third-party senator
-TS: total senator votes
+x1, x2, x3: other third-party representative
+TS: total representative votes
 DP: Democratic party president
 RP: Republican party president
 y1, WIP: other third-party president
